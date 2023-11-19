@@ -1,5 +1,5 @@
 # NLP-with-disaster-tweets
-This project aims to find a solution to the "" Kaggle Competition. It's a good initiation to NLP techniques.
+This project aims to find a solution to the "NLP disaster Tweets" Kaggle Competition. It's a good initiation to NLP techniques.
 
 ## Problem description
 Twitter has become an important communication channel in times of emergency.
